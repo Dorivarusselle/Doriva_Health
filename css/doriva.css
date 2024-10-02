@@ -1,0 +1,50 @@
+header{
+    background-color: black;
+    color: aliceblue;
+    align-content: center;
+      margin-top: auto;
+      align-items: center;
+      text-align: center;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      font-size: xx-large;
+  
+  }
+  h2{
+    align-content: center;
+      margin-top: auto;
+      align-items: center;
+      text-align: center;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      font-size: x-large;
+  }
+  
+  .cours-liste {
+      margin-bottom: 20px;
+      border: solid 3px;
+      margin: 5px;
+      border-radius: 8px;
+      background-color: rgba(255, 240, 249, 0.007);
+    }
+    
+    .cours-link {
+      cursor: pointer;
+      text-decoration: none;
+      color: rgb(11, 12, 12);
+    }
+    
+    .cours-details {
+      margin-top: 20px;
+    }
+    body{
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-image: url('/images/1.jpg');
+      
+    }
+    footer{ 
+      background-color: #e6e2e4ec;
+      text-align: center;
+      display: flex;
+      justify-content: center;
+    }
